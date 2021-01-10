@@ -9,7 +9,7 @@ use GuzzleHttp\Client;
  * Flussonic HTTP API Client
  * @version 1.0.0
  * @author Billy Riantono <billy@nubicodes.com>
- * @copyright 2020 NubiCodes.com
+ * @copyright 2021 NubiCodes.com
  */
 class FlussonicClient
 {
