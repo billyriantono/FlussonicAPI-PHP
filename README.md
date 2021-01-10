@@ -1,2 +1,2 @@
-# Flussonic HTTP API PHP Client (Unoficial)
+# Flussonic HTTP API PHP Client (Unofficial)
 ### Created at January 2021 by NubiCodes.com
